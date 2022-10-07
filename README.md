@@ -4,6 +4,7 @@
 
 | <h3 align="center">Certificado</h3> | <h3 align="center">Curso</h3> | <h3 align="center">Data</h3>
 | -------| ----- | ---- |
+[Certificate](https://www.dio.me/certificate/CC76C49C) | Criando Primeiro Repositório no GitHub Para Compartilhar Seu Progresso | 07/10/2022 
 [Certificate](https://www.dio.me/certificate/5D826975) | Shell script - Manipulando Arquivos | 06/10/2022 
 [Certificate](https://www.dio.me/certificate/0B03FAE2) | Trabalhando com Branches no GitHub | 06/10/2022 
 [Certificate](https://www.dio.me/certificate/A49E3916) | Linux Experience Aula Inaugural | 05/10/2022 
