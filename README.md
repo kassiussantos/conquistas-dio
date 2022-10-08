@@ -4,6 +4,8 @@
 
 | <h3 align="center">Certificado</h3> | <h3 align="center">Curso</h3> | <h3 align="center">Data</h3>
 | -------| ----- | ---- |
+[Certificate](https://www.dio.me/certificate/9BCDB227) | Docker: Utilização Prática no Cenário de Microsserviços | 08/10/2022
+[Certificate](https://www.dio.me/certificate/AB1DFD71) | Entendendo Comunicação Client x Server | 07/10/2022 
 [Certificate](https://www.dio.me/certificate/CC76C49C) | Criando Primeiro Repositório no GitHub Para Compartilhar Seu Progresso | 07/10/2022 
 [Certificate](https://www.dio.me/certificate/5D826975) | Shell script - Manipulando Arquivos | 06/10/2022 
 [Certificate](https://www.dio.me/certificate/0B03FAE2) | Trabalhando com Branches no GitHub | 06/10/2022 
